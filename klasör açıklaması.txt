@@ -1,0 +1,7 @@
+yaratım tarihi: 13.07.20
+
+v001: pytorch sitesinde bulunan bu örneği kendi kodlarımızla çalıştırdık.
+
+v001a: pytorch sitesinde bulunan bir örneği kendi kodlarımızla çalıştırdık.
+https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html#sphx-glr-beginner-nlp-sequence-models-tutorial-py
+
